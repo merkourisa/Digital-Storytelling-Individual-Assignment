@@ -9,14 +9,14 @@ You must first create a [Github](https://github.com/) account, using the univers
 
 ## Grading 
 Taking into account the percentage of the individual assignment in the final grade (5 points). Each deliverable is graded as follows:
-- Tasks described in [deliverable 1](https://github.com/merkourisa/Digital-Storytelling-Individual-Assignment/issues/1): up to +1 points. 
-- Tasks described in [deliverable 2](https://github.com/merkourisa/Digital-Storytelling-Individual-Assignment/issues/2): up to +2 points.
-- Tasks described in [deliverable 3](https://github.com/merkourisa/Digital-Storytelling-Individual-Assignment/issues/3): up to +2 points.
+- Tasks described in [Deliverable 1](https://github.com/merkourisa/Digital-Storytelling-Individual-Assignment/issues/1): up to +1 points. 
+- Tasks described in [Deliverable 2](https://github.com/merkourisa/Digital-Storytelling-Individual-Assignment/issues/2): up to +2 points.
+- Tasks described in [Deliverable 3](https://github.com/merkourisa/Digital-Storytelling-Individual-Assignment/issues/3): up to +2 points.
 
 ## Deadlines
-- [deliverable 1](https://github.com/merkourisa/Digital-Storytelling-Individual-Assignment/issues/1): until 17/03/2023 
-- [deliverable 2](https://github.com/merkourisa/Digital-Storytelling-Individual-Assignment/issues/2): until 28/04/2023
-- [deliverable 3](https://github.com/merkourisa/Digital-Storytelling-Individual-Assignment/issues/3): until 02/06/2023
+- [Deliverable 1](https://github.com/merkourisa/Digital-Storytelling-Individual-Assignment/issues/1): until 17/03/2023 
+- [Deliverable 2](https://github.com/merkourisa/Digital-Storytelling-Individual-Assignment/issues/2): until 28/04/2023
+- [Deliverable 3](https://github.com/merkourisa/Digital-Storytelling-Individual-Assignment/issues/3): until 02/06/2023
 
 ## Report
 In each deliverable, you should also modify your personal [report](my_report/README.md), describing in detail what have you done in each deliverable.
