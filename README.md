@@ -1,10 +1,6 @@
 # Digital-Storytelling-Individual-Assignment
 
-The purpose of this individual assignment is to create your own real-time animation, in which you will use what you’ve learned to tell a story of your own design through animation in Unity.
-
-You will use [Unity](https://unity.com/) (2019.4) cross-platform game engine and follow the instructions given in the official Unity [Real-time Animated Storytelling tutorial](https://learn.unity.com/course/real-time-animated-storytelling/?tab=overview&uv=2019.4). 
-
-
+The purpose of this individual assignment is to [create your own real-time animation](https://learn.unity.com/tutorial/final-project?uv=2019.4&courseId=5ee00851edbc2a0022274f75#), in which you will use what you’ve learned to tell a story of your own design through animation. You will use [Unity](https://unity.com/) (2019.4) cross-platform game engine and follow the instructions given in the official Unity [Real-time Animated Storytelling tutorial](https://learn.unity.com/course/real-time-animated-storytelling/?tab=overview&uv=2019.4). 
 
 ## Initial Settings
 You must first create a [Github](https://github.com/) account, using the university email, and then fork the [repository](https://github.com/merkourisa/Digital-Storytelling-Individual-Assignment). Finally, you have to complete all the tasks described in the open [issues](https://github.com/merkourisa/Digital-Storytelling-Individual-Assignment/issues) of the assignment.
@@ -31,5 +27,5 @@ For any questions, regarding the deliverables, in the open [issues](https://gith
 
 ## Resources
 
-- [Real-time Animated Storytelling tutorial](https://learn.unity.com/course/real-time-animated-storytelling/?tab=overview&uv=2019.4).
+- [Real-time Animated Storytelling tutorial](https://learn.unity.com/course/real-time-animated-storytelling/?tab=overview&uv=2019.4)
 - [Basic writing and formatting syntax in Github](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
