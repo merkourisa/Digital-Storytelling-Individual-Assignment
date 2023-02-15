@@ -9,8 +9,8 @@ You must first create a [Github](https://github.com/) account, using the univers
 
 ## Grading 
 Taking into account the percentage of the individual assignment in the final grade (5 points). Each deliverable is graded as follows:
-- Tasks described in [Deliverable 1](https://github.com/merkourisa/Digital-Storytelling-Individual-Assignment/issues/1): up to +1 points. 
-- Tasks described in [Deliverable 2](https://github.com/merkourisa/Digital-Storytelling-Individual-Assignment/issues/2): up to +2 points.
+- Tasks described in [Deliverable 1](https://github.com/merkourisa/Digital-Storytelling-Individual-Assignment/issues/1): up to +1.5 points. 
+- Tasks described in [Deliverable 2](https://github.com/merkourisa/Digital-Storytelling-Individual-Assignment/issues/2): up to +1.5 points.
 - Tasks described in [Deliverable 3](https://github.com/merkourisa/Digital-Storytelling-Individual-Assignment/issues/3): up to +2 points.
 
 ## Deadlines
