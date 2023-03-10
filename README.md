@@ -14,7 +14,7 @@ Taking into account the percentage of the individual assignment in the final gra
 - Tasks described in [Deliverable 3](https://github.com/merkourisa/Digital-Storytelling-Individual-Assignment/issues/3): up to +2 points.
 
 ## Deadlines
-- [Deliverable 1](https://github.com/merkourisa/Digital-Storytelling-Individual-Assignment/issues/1): until 17/03/2023 
+- [Deliverable 1](https://github.com/merkourisa/Digital-Storytelling-Individual-Assignment/issues/1): until 24/03/2023 
 - [Deliverable 2](https://github.com/merkourisa/Digital-Storytelling-Individual-Assignment/issues/2): until 28/04/2023
 - [Deliverable 3](https://github.com/merkourisa/Digital-Storytelling-Individual-Assignment/issues/3): until 02/06/2023
 
