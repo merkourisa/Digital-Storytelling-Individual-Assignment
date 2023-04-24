@@ -15,7 +15,7 @@ Taking into account the percentage of the individual assignment in the final gra
 
 ## Deadlines
 - [Deliverable 1](https://github.com/merkourisa/Digital-Storytelling-Individual-Assignment/issues/1): until 24/03/2023 
-- [Deliverable 2](https://github.com/merkourisa/Digital-Storytelling-Individual-Assignment/issues/2): until 28/04/2023
+- [Deliverable 2](https://github.com/merkourisa/Digital-Storytelling-Individual-Assignment/issues/2): until 07/05/2023
 - [Deliverable 3](https://github.com/merkourisa/Digital-Storytelling-Individual-Assignment/issues/3): until 02/06/2023
 
 ## Report
