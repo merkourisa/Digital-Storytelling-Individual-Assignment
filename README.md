@@ -25,6 +25,20 @@ In each deliverable, you should also modify your personal [report](my_report/REA
 
 For any questions, regarding the deliverables, in the open [issues](https://github.com/merkourisa/Digital-Storytelling-Individual-Assignment/issues) not only you can ask but you can also answer. 
 
+## Real-Time Animations
+- [Runaway](https://www.youtube.com/watch?v=UaXOgPFslOI)
+- [Spider-Man: The Battle Within (Short Film)](https://www.youtube.com/watch?v=5iXBQ2fdvYI)
+- [The Eye](https://www.youtube.com/watch?v=lu7ikQQtXZc)
+- [" The Mist "](https://www.youtube.com/watch?v=0RE_MfXTKqw)
+- [pantelis 8504](https://www.youtube.com/watch?v=46p5fzX4-xY)
+- [Theseus and Minotaur](https://user-images.githubusercontent.com/100956280/239510032-9a13976a-ad92-493a-9001-6d5c79f912cd.mp4)
+- [358 - Prototype_v03](https://www.youtube.com/watch?v=W0q_ac8RWXg)
+- [Battlezone](https://user-images.githubusercontent.com/117390085/236721624-983e90cb-9b48-40ea-8d46-2c65faa5a610.mp4)
+- [shipyard](https://user-images.githubusercontent.com/101411488/242855957-01f4e4ac-dfa0-4d8b-9c06-a39518df8f83.mp4)
+- [the escapade](https://user-images.githubusercontent.com/101007425/239237835-303b1fdd-9b22-49b5-acb8-729939df27df.mp4)
+- [The final shot](https://user-images.githubusercontent.com/100956044/240373060-f3412fd8-d9ae-4ec7-86a2-789df6c1584b.mp4)
+- [City Night](https://user-images.githubusercontent.com/100948882/239680461-19e7914e-6300-43d8-adbb-64286cc69112.mp4)
+
 ## Resources
 
 - [Real-time Animated Storytelling tutorial](https://learn.unity.com/course/real-time-animated-storytelling/?tab=overview&uv=2019.4)
