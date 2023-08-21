@@ -14,9 +14,14 @@ Taking into account the percentage of the individual assignment in the final gra
 - Tasks described in [Deliverable 3](https://github.com/merkourisa/Digital-Storytelling-Individual-Assignment/issues/3): up to +2 points.
 
 ## Deadlines
-- [Deliverable 1](https://github.com/merkourisa/Digital-Storytelling-Individual-Assignment/issues/1): until 24/03/2023 
+## Deadlines [Deliverable 1](https://github.com/merkourisa/Digital-Storytelling-Individual-Assignment/issues/1): until 24/03/2023 
 - [Deliverable 2](https://github.com/merkourisa/Digital-Storytelling-Individual-Assignment/issues/2): until 07/05/2023
 - [Deliverable 3](https://github.com/merkourisa/Digital-Storytelling-Individual-Assignment/issues/3): until 02/06/2023
+
+## September Examination Period
+- The individual assignment is valid for the September examination period.
+- The deadline for all three deliverables is 8/9/2023.
+- Grading will be the same (up to 5 points). 
 
 ## Report
 In each deliverable, you should also modify your personal [report](my_report/README.md), describing in detail what have you done in each deliverable.
